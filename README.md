@@ -10,4 +10,4 @@ https://codepen.io/julienshim/pen/JmxxLb
 
 ### GIF
 
-<img src="https://raw.githubusercontent.com/julienshim/freeCodeCamp/master/Responsive%20Web%20Design%20Projects/Technical%20Documentation%20Page/demo.gif" width="500"/>
+<img src="https://github.com/julienshim/technical-document-page/blob/master/demo.gif" width="500"/>
